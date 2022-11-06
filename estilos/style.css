@@ -19,7 +19,7 @@ body {
     background-color: rgb(96, 76, 116);
 }
 
-img {
+img.lado {
     float: right
 }
 
